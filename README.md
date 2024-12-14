@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalGadani
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning MERN
 - 💬 Ask me about General Questions
 - 📫 How to reach me vishalgadani7698@gmail.con
 
